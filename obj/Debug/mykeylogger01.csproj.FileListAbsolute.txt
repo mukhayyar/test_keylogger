@@ -1,0 +1,5 @@
+C:\Users\lenovo\Documents\SharpDevelop Projects\mykeylogger01\mykeylogger01\obj\Debug\mykeylogger01.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\SharpDevelop Projects\mykeylogger01\mykeylogger01\bin\Debug\mykeylogger01.exe
+C:\Users\lenovo\Documents\SharpDevelop Projects\mykeylogger01\mykeylogger01\obj\Debug\mykeylogger01.exe
+C:\Users\lenovo\Documents\SharpDevelop Projects\mykeylogger01\mykeylogger01\obj\Debug\mykeylogger01.pdb
+C:\Users\lenovo\Documents\SharpDevelop Projects\mykeylogger01\mykeylogger01\bin\Debug\mykeylogger01.pdb
